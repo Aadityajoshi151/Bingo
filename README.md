@@ -10,4 +10,4 @@ Cross platform bingo game. 2 people play bingo on their respective machines. Mad
 [Watch Demo Video Here](https://www.youtube.com/watch?v=3KRvQtyDeHM)
 
 ## Your Feedback
-Please use the bingo app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
+Please use the bingo app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible.
